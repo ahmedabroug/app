@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: app-discovery-module
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: aabroug
+Implementation-Vendor-Id: com.app.discovery.module
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/app-root/app-discovery-module
+Created-By: Maven Integration for Eclipse
+

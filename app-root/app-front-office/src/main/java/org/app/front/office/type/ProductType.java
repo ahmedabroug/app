@@ -1,0 +1,7 @@
+package org.app.front.office.type;
+
+public enum ProductType {
+
+	NUTRITION, SOINS_PERSONNELS, PHARMACEUTIQUES, PLASTIQUES, SPORT, COSMETIQUE, BIOTECHNOLOGIE, ELECTRONIQUE
+
+}
