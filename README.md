@@ -9,5 +9,5 @@ Personal apllication to apply latest expertise working with different spring pro
 * back-office : API admin side + ping to discovery server + provide services + integration with other APIs by spring cloud feign
 * spring-security : centralized authenticatio (basic auth) + centralized request autorization (CORS config,JWT method)
 
-# * project architecture:
+# project architecture:
 ![Screenshot](images/app-project.PNG)
