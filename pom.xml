@@ -63,8 +63,8 @@
 	</build>
 
 	<modules>
-		<module>app-config-module</module>
-		<module>app-discovery-module</module>
-		<module>app-front-office</module>
+		<module>app-root/app-config-module</module>
+		<module>app-root/app-discovery-module</module>
+		<module>app-root/app-front-office</module>
 	</modules>
 </project>
